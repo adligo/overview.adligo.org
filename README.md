@@ -30,7 +30,9 @@ Adligo.org's software libraries are all freely available on Github;
 The convention, is that projects are Java projects if they are directly under the adligo.org package namespace.  In addition the following sub-domain name spaces exist;
 
 *.ts.adligo.org -> Typescript Projects
+
 *.sh.adligo.org -> Shell Scripts (i.e. Bash)
+
 *.py.adligo.org -> Python Projects
 
 ## Algorithms
