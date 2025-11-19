@@ -69,6 +69,6 @@ Adligo.org was started in 2003 at the same time Adligo Inc was founded by Scott 
 
 ## Hosting 
 This site is hosted using GitHub Pages from this git repo;
-[https://github.com/adligo/papers.adligo.com](https://github.com/adligo/overview.adligo.com)
+[https://github.com/adligo/overview.adligo.org](https://github.com/adligo/overview.adligo.org)
 
 © Copyright 2025 Adligo Inc
